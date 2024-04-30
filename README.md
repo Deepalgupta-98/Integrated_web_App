@@ -1,4 +1,4 @@
-# python web app
+# Integrated web app
 
 MY SUMMER PROJECT
 
