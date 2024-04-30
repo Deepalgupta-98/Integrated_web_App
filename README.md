@@ -18,3 +18,4 @@ Mail Button: Description: This button provides access to email-related services.
 Run Linux Commands: Description: This section allows users to run Linux commands. Functionality: Users can enter a Linux command in the input field, submit the form, and potentially trigger an AWS-hosted service that executes the command and returns the output on the webpage.
 
 Each button represents a different feature or service, and the project seems to provide a web-based interface for accessing and interacting with these features, which are hosted on AWS.
+https://github.com/Deepalgupta-98/Integrated_web_App/assets/112163511/ca07f159-00b1-4f0c-8524-33e24525d724
